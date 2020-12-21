@@ -1,0 +1,13 @@
+.image-footer{
+	position: relative;
+	color:white;
+	bottom:150px;
+	margin-left: 30px;
+	display: flex;
+}
+.image-footer-text{
+	flex: 1;
+}
+.image-footer-text p{
+	padding-top: 10px;
+}

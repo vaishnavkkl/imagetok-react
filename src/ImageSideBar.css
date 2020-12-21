@@ -1,0 +1,11 @@
+.image-side-bar{
+	position: absolute;
+	top: 40%;
+	right:10px;
+
+}
+.image-side-bar-button{
+	padding-right: 15px;
+	padding-bottom: 50px;
+	color: white;
+}

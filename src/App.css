@@ -1,0 +1,33 @@
+html{
+  scroll-snap-type: y mandatory;
+  background-color: black;
+}
+
+.app{
+  height:80%;
+  widows: 60%;
+  background-color: black;
+  display: grid;
+  place-items: center;
+  padding-top:30px;
+  
+}
+.app-images{
+  position: relative;
+  height: 600px;
+  width:50%;
+  border-radius: 20px;
+  overflow: scroll;
+  
+  scroll-snap-type: y mandatory;
+}
+
+.app-images::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.app-images {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
