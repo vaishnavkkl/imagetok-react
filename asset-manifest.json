@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/imagetok-react/static/css/main.72d1322b.chunk.css",
+    "main.js": "/imagetok-react/static/js/main.4ff27146.chunk.js",
+    "main.js.map": "/imagetok-react/static/js/main.4ff27146.chunk.js.map",
+    "runtime-main.js": "/imagetok-react/static/js/runtime-main.0d9c7d72.js",
+    "runtime-main.js.map": "/imagetok-react/static/js/runtime-main.0d9c7d72.js.map",
+    "static/js/2.afee62f4.chunk.js": "/imagetok-react/static/js/2.afee62f4.chunk.js",
+    "static/js/2.afee62f4.chunk.js.map": "/imagetok-react/static/js/2.afee62f4.chunk.js.map",
+    "index.html": "/imagetok-react/index.html",
+    "static/css/main.72d1322b.chunk.css.map": "/imagetok-react/static/css/main.72d1322b.chunk.css.map",
+    "static/js/2.afee62f4.chunk.js.LICENSE.txt": "/imagetok-react/static/js/2.afee62f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d9c7d72.js",
+    "static/js/2.afee62f4.chunk.js",
+    "static/css/main.72d1322b.chunk.css",
+    "static/js/main.4ff27146.chunk.js"
+  ]
+}
